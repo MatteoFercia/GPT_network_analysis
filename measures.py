@@ -2,11 +2,10 @@
 
 import json
 import math
-
 import networkx as nx
 from statistics import mean
 from collections import defaultdict
-from app.PatentAnalysis.Indicators.load_and_clean import extract_dicts_classes
+from load_and_clean import extract_dicts_classes
 
 # ----------------------------------------------------------------------------------------------------------------------
 
