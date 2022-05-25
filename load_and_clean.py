@@ -3,7 +3,7 @@
 import pandas as pd
 from collections import defaultdict
 from statistics import mean
-from app.PatentAnalysis.Indicators.list_datasets import datasets
+from list_datasets import datasets
 
 # ----------------------------------------------------------------------------------------------------------------------
 
