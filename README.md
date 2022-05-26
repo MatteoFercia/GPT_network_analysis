@@ -1,7 +1,7 @@
 # General Purpose Technologies: A network perspective
 ## 1. Introduction 
 
-Every period (or era) is characterised by the existence of a prevailing technology that dictates, in a sense, innovation, rather than investment allocation, rather than corporate strategy (alliances, mergers, etc..), rather than government policy-making. These key technologies are referred to as General Purpose Technology [1]. We will refer to this category of technologies as GPTs.
+Every era is characterised by the existence of a prevailing technology that dictates, in a sense, innovation, rather than investment allocation, corporate strategy (alliances, mergers, etc..) and  government policy-making. These key technologies are referred to as General Purpose Technology [1]. We will refer to this category of technologies as GPTs.
 
 These technologies have a particular hierarchical structure, [1], characterised in the most trivial case by only two levels: at the highest level,  we have a basic technology (or set of technologies), whose task is to serve as the foundation for the development of various applications in the second level. The first level carries the essence of the technology, i.e., its general purposes.
 
