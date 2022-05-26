@@ -100,18 +100,18 @@ def tsv2json(input_file, output_file, threshold, links=[]):
 def merge_json_files(dataset):
     try:
         map = {
-                "nodes": json.load(open(f'./{dataset.title()}/nodes.json')),
-                "links": json.load(open(f'./{dataset.title()}/links.json'))
+                "nodes": json.load(open('nodes.json')),
+                "links": json.load(open('links.json'))
               }
-        with open(f"../../static/map_{dataset.title()}.json", "w") as outfile:
+        with open(f"{dataset.title()}.json", "w") as outfile:
             json.dump(map, outfile, indent=4)
         print('Map Done')
     except:
         map = {
-                "nodes": json.load(open(f'./app/PatentMap/Map/{dataset.title()}/nodes.json')),
-                "links": json.load(open(f'./app/PatentMap/Map/{dataset.title()}/links.json'))
+                "nodes": json.load(open('nodes.json')),
+                "links": json.load(open('links.json'))
               }
-        with open(f"./app/static/map_{dataset.title()}.json", "w") as outfile:
+        with open(f"{dataset.title()}.json", "w") as outfile:
             json.dump(map, outfile, indent=4)
         print('Map Done')
 
@@ -139,15 +139,15 @@ def pipeline_map(path, dataset, threshold=0.1, first_time=False):
         tsv2json(input_filename, output_filename, threshold=threshold, links=links)
         print(f'Nodes.json {dataset.title()} done.')
     except:
-        input_filename = f'./app/PatentMap/Map/{dataset.title()}/links.tsv'
-        output_filename = f'./app/PatentMap/Map/{dataset.title()}/links.json'
+        input_filename = 'links.tsv'
+        output_filename = 'links.json'
         tsv2json(input_filename, output_filename, threshold=threshold)
-        print(f'Links.json {dataset.title()} done.')
-        links=json.load(open(f'./app/PatentMap/Map/{dataset.title()}/links.json'))
-        input_filename = f'./app/PatentMap/Map/{dataset.title()}/nodes.tsv'
-        output_filename = f'./app/PatentMap/Map/{dataset.title()}/nodes.json'
+        print('Links.json done.')
+        links=json.load(open('links.json'))
+        input_filename = 'nodes.tsv'
+        output_filename = 'nodes.json'
         tsv2json(input_filename, output_filename, threshold=threshold, links=links)
-        print(f'Nodes.json {dataset.title()} done.')
+        print('Nodes.json done.')
     merge_json_files(dataset=dataset)
     print('Pipeline done.')
 
@@ -157,12 +157,12 @@ if __name__=="__main__":
 
     # to change the weights of the nodes you need to add the first_time option
 
-    path = "../../PatentAnalysis/Datasets/Digital Twins.csv"
-    pipeline_map(path=path, dataset='Digital Twins', threshold=0.2)
+    #path = "/Users/matteofercia/Desktop/datascience/network/blockchain_patents.csv"
+    #pipeline_map(path=path, dataset='Digital Twins', threshold=0.2)
 
-    path = "../../PatentAnalysis/Datasets/Blockchain_patent families.csv"
+    path = "/Users/matteofercia/Desktop/datascience/network/blockchain_patents.csv"
     pipeline_map(path=path, dataset='Blockchain', threshold=0.04)
 
-    print('Main done.')
+
 
 # ----------------------------------------------------------------------------------------------------------------------

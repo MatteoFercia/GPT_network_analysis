@@ -1,0 +1,2832 @@
+[
+    {
+        "source": "T01-D",
+        "target": "T01-G",
+        "value": "0.08"
+    },
+    {
+        "source": "T01-D",
+        "target": "T01-H",
+        "value": "0.56"
+    },
+    {
+        "source": "T01-D",
+        "target": "T01-J",
+        "value": "9.62"
+    },
+    {
+        "source": "T01-D",
+        "target": "T01-M",
+        "value": "0.33"
+    },
+    {
+        "source": "T01-D",
+        "target": "T01-N",
+        "value": "12.72"
+    },
+    {
+        "source": "T01-D",
+        "target": "W01-A",
+        "value": "6.09"
+    },
+    {
+        "source": "T01-D",
+        "target": "S05-G",
+        "value": "0.08"
+    },
+    {
+        "source": "T01-D",
+        "target": "T01-E",
+        "value": "1.66"
+    },
+    {
+        "source": "T01-D",
+        "target": "W06-B",
+        "value": "0.1"
+    },
+    {
+        "source": "T01-D",
+        "target": "T01-C",
+        "value": "0.29"
+    },
+    {
+        "source": "T01-D",
+        "target": "T01-S",
+        "value": "1.96"
+    },
+    {
+        "source": "T01-D",
+        "target": "B11-C",
+        "value": "0.17"
+    },
+    {
+        "source": "T01-D",
+        "target": "D05-H",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-D",
+        "target": "W02-F",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-D",
+        "target": "T04-K",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-D",
+        "target": "T05-L",
+        "value": "0.11"
+    },
+    {
+        "source": "T01-D",
+        "target": "T01-D",
+        "value": "0.1"
+    },
+    {
+        "source": "T01-D",
+        "target": "T01-F",
+        "value": "0.61"
+    },
+    {
+        "source": "T01-D",
+        "target": "W01-C",
+        "value": "1.14"
+    },
+    {
+        "source": "T01-D",
+        "target": "W02-C",
+        "value": "0.08"
+    },
+    {
+        "source": "T01-D",
+        "target": "T06-A",
+        "value": "0.08"
+    },
+    {
+        "source": "T01-D",
+        "target": "T05-G",
+        "value": "0.08"
+    },
+    {
+        "source": "T01-D",
+        "target": "W04-W",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-D",
+        "target": "W04-X",
+        "value": "0.14"
+    },
+    {
+        "source": "T01-D",
+        "target": "X25-A",
+        "value": "0.08"
+    },
+    {
+        "source": "T01-D",
+        "target": "T05-H",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-D",
+        "target": "W05-D",
+        "value": "0.1"
+    },
+    {
+        "source": "T01-D",
+        "target": "T01-L",
+        "value": "0.11"
+    },
+    {
+        "source": "T01-G",
+        "target": "T01-D",
+        "value": "0.08"
+    },
+    {
+        "source": "T01-G",
+        "target": "T01-H",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-G",
+        "target": "T01-J",
+        "value": "0.39"
+    },
+    {
+        "source": "T01-G",
+        "target": "T01-N",
+        "value": "0.59"
+    },
+    {
+        "source": "T01-G",
+        "target": "T01-F",
+        "value": "0.1"
+    },
+    {
+        "source": "T01-G",
+        "target": "T01-E",
+        "value": "0.07"
+    },
+    {
+        "source": "T01-G",
+        "target": "T01-S",
+        "value": "0.08"
+    },
+    {
+        "source": "T01-G",
+        "target": "W01-A",
+        "value": "0.07"
+    },
+    {
+        "source": "T01-G",
+        "target": "B11-C",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-H",
+        "target": "T01-D",
+        "value": "0.56"
+    },
+    {
+        "source": "T01-H",
+        "target": "T01-G",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-H",
+        "target": "T01-H",
+        "value": "0.16"
+    },
+    {
+        "source": "T01-H",
+        "target": "T01-J",
+        "value": "1.7"
+    },
+    {
+        "source": "T01-H",
+        "target": "T01-M",
+        "value": "0.07"
+    },
+    {
+        "source": "T01-H",
+        "target": "T01-N",
+        "value": "0.87"
+    },
+    {
+        "source": "T01-H",
+        "target": "W01-A",
+        "value": "0.26"
+    },
+    {
+        "source": "T01-H",
+        "target": "T01-F",
+        "value": "0.24"
+    },
+    {
+        "source": "T01-H",
+        "target": "T01-S",
+        "value": "0.26"
+    },
+    {
+        "source": "T01-H",
+        "target": "T01-E",
+        "value": "0.21"
+    },
+    {
+        "source": "T01-H",
+        "target": "T01-C",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-H",
+        "target": "T06-A",
+        "value": "0.08"
+    },
+    {
+        "source": "T01-H",
+        "target": "W01-C",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-J",
+        "target": "T01-D",
+        "value": "9.62"
+    },
+    {
+        "source": "T01-J",
+        "target": "T01-G",
+        "value": "0.39"
+    },
+    {
+        "source": "T01-J",
+        "target": "T01-H",
+        "value": "1.7"
+    },
+    {
+        "source": "T01-J",
+        "target": "T01-M",
+        "value": "0.86"
+    },
+    {
+        "source": "T01-J",
+        "target": "T01-N",
+        "value": "36.11"
+    },
+    {
+        "source": "T01-J",
+        "target": "W01-A",
+        "value": "10.5"
+    },
+    {
+        "source": "T01-J",
+        "target": "S05-G",
+        "value": "0.42"
+    },
+    {
+        "source": "T01-J",
+        "target": "T01-E",
+        "value": "5.87"
+    },
+    {
+        "source": "T01-J",
+        "target": "T01-J",
+        "value": "30.06"
+    },
+    {
+        "source": "T01-J",
+        "target": "W06-B",
+        "value": "0.41"
+    },
+    {
+        "source": "T01-J",
+        "target": "T01-F",
+        "value": "2.06"
+    },
+    {
+        "source": "T01-J",
+        "target": "W04-E",
+        "value": "0.1"
+    },
+    {
+        "source": "T01-J",
+        "target": "W04-N",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-J",
+        "target": "T01-S",
+        "value": "6.63"
+    },
+    {
+        "source": "T01-J",
+        "target": "W01-C",
+        "value": "2.68"
+    },
+    {
+        "source": "T01-J",
+        "target": "W02-F",
+        "value": "0.14"
+    },
+    {
+        "source": "T01-J",
+        "target": "T05-L",
+        "value": "0.68"
+    },
+    {
+        "source": "T01-J",
+        "target": "T01-C",
+        "value": "0.71"
+    },
+    {
+        "source": "T01-J",
+        "target": "W04-X",
+        "value": "0.45"
+    },
+    {
+        "source": "T01-J",
+        "target": "T04-K",
+        "value": "0.29"
+    },
+    {
+        "source": "T01-J",
+        "target": "W02-C",
+        "value": "0.27"
+    },
+    {
+        "source": "T01-J",
+        "target": "W04-H",
+        "value": "0.09"
+    },
+    {
+        "source": "T01-J",
+        "target": "X25-A",
+        "value": "0.68"
+    },
+    {
+        "source": "T01-J",
+        "target": "B11-C",
+        "value": "0.63"
+    },
+    {
+        "source": "T01-J",
+        "target": "B12-K",
+        "value": "0.21"
+    },
+    {
+        "source": "T01-J",
+        "target": "T06-A",
+        "value": "0.8"
+    },
+    {
+        "source": "T01-J",
+        "target": "X12-H",
+        "value": "0.11"
+    },
+    {
+        "source": "T01-J",
+        "target": "T05-G",
+        "value": "0.42"
+    },
+    {
+        "source": "T01-J",
+        "target": "W06-A",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-J",
+        "target": "T04-E",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-J",
+        "target": "W04-W",
+        "value": "0.21"
+    },
+    {
+        "source": "T01-J",
+        "target": "W05-B",
+        "value": "0.1"
+    },
+    {
+        "source": "T01-J",
+        "target": "S05-B",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-J",
+        "target": "W04-G",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-J",
+        "target": "A11-B",
+        "value": "0.16"
+    },
+    {
+        "source": "T01-J",
+        "target": "A12-E",
+        "value": "0.26"
+    },
+    {
+        "source": "T01-J",
+        "target": "T06-D",
+        "value": "0.07"
+    },
+    {
+        "source": "T01-J",
+        "target": "S05-D",
+        "value": "0.14"
+    },
+    {
+        "source": "T01-J",
+        "target": "T04-D",
+        "value": "0.13"
+    },
+    {
+        "source": "T01-J",
+        "target": "S03-E",
+        "value": "0.09"
+    },
+    {
+        "source": "T01-J",
+        "target": "T01-L",
+        "value": "0.33"
+    },
+    {
+        "source": "T01-J",
+        "target": "D03-K",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-J",
+        "target": "B04-E",
+        "value": "0.26"
+    },
+    {
+        "source": "T01-J",
+        "target": "D05-H",
+        "value": "0.22"
+    },
+    {
+        "source": "T01-J",
+        "target": "X15-B",
+        "value": "0.18"
+    },
+    {
+        "source": "T01-J",
+        "target": "A11-C",
+        "value": "0.12"
+    },
+    {
+        "source": "T01-J",
+        "target": "T05-C",
+        "value": "0.13"
+    },
+    {
+        "source": "T01-J",
+        "target": "U14-A",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-J",
+        "target": "X21-A",
+        "value": "0.09"
+    },
+    {
+        "source": "T01-J",
+        "target": "T05-D",
+        "value": "0.31"
+    },
+    {
+        "source": "T01-J",
+        "target": "T05-H",
+        "value": "0.16"
+    },
+    {
+        "source": "T01-J",
+        "target": "W06-C",
+        "value": "0.11"
+    },
+    {
+        "source": "T01-J",
+        "target": "W01-E",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-J",
+        "target": "W05-D",
+        "value": "0.2"
+    },
+    {
+        "source": "T01-J",
+        "target": "X25-P",
+        "value": "0.1"
+    },
+    {
+        "source": "T01-J",
+        "target": "A12-V",
+        "value": "0.07"
+    },
+    {
+        "source": "T01-J",
+        "target": "W03-A",
+        "value": "0.16"
+    },
+    {
+        "source": "T01-J",
+        "target": "P31-A",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-J",
+        "target": "W02-G",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-J",
+        "target": "S02-B",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-J",
+        "target": "W04-V",
+        "value": "0.15"
+    },
+    {
+        "source": "T01-J",
+        "target": "X16-B",
+        "value": "0.08"
+    },
+    {
+        "source": "T01-J",
+        "target": "S06-G",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-M",
+        "target": "T01-D",
+        "value": "0.33"
+    },
+    {
+        "source": "T01-M",
+        "target": "T01-H",
+        "value": "0.07"
+    },
+    {
+        "source": "T01-M",
+        "target": "T01-J",
+        "value": "0.86"
+    },
+    {
+        "source": "T01-M",
+        "target": "T01-N",
+        "value": "1.62"
+    },
+    {
+        "source": "T01-M",
+        "target": "T01-C",
+        "value": "0.12"
+    },
+    {
+        "source": "T01-M",
+        "target": "T01-S",
+        "value": "0.22"
+    },
+    {
+        "source": "T01-M",
+        "target": "T01-E",
+        "value": "0.22"
+    },
+    {
+        "source": "T01-M",
+        "target": "W01-A",
+        "value": "0.5"
+    },
+    {
+        "source": "T01-M",
+        "target": "B11-C",
+        "value": "0.07"
+    },
+    {
+        "source": "T01-M",
+        "target": "T06-A",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-M",
+        "target": "W01-C",
+        "value": "0.49"
+    },
+    {
+        "source": "T01-M",
+        "target": "T01-M",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-M",
+        "target": "T01-F",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-N",
+        "target": "T01-D",
+        "value": "12.72"
+    },
+    {
+        "source": "T01-N",
+        "target": "T01-G",
+        "value": "0.59"
+    },
+    {
+        "source": "T01-N",
+        "target": "T01-H",
+        "value": "0.87"
+    },
+    {
+        "source": "T01-N",
+        "target": "T01-J",
+        "value": "36.11"
+    },
+    {
+        "source": "T01-N",
+        "target": "T01-M",
+        "value": "1.62"
+    },
+    {
+        "source": "T01-N",
+        "target": "T01-N",
+        "value": "62.06"
+    },
+    {
+        "source": "T01-N",
+        "target": "S05-G",
+        "value": "0.13"
+    },
+    {
+        "source": "T01-N",
+        "target": "T01-E",
+        "value": "5.68"
+    },
+    {
+        "source": "T01-N",
+        "target": "W01-A",
+        "value": "16.4"
+    },
+    {
+        "source": "T01-N",
+        "target": "W06-B",
+        "value": "0.25"
+    },
+    {
+        "source": "T01-N",
+        "target": "T01-F",
+        "value": "3.92"
+    },
+    {
+        "source": "T01-N",
+        "target": "T01-C",
+        "value": "1.44"
+    },
+    {
+        "source": "T01-N",
+        "target": "T01-S",
+        "value": "8.5"
+    },
+    {
+        "source": "T01-N",
+        "target": "W01-C",
+        "value": "5.16"
+    },
+    {
+        "source": "T01-N",
+        "target": "B11-C",
+        "value": "0.51"
+    },
+    {
+        "source": "T01-N",
+        "target": "D05-H",
+        "value": "0.12"
+    },
+    {
+        "source": "T01-N",
+        "target": "T06-A",
+        "value": "0.33"
+    },
+    {
+        "source": "T01-N",
+        "target": "T04-K",
+        "value": "0.35"
+    },
+    {
+        "source": "T01-N",
+        "target": "T05-L",
+        "value": "0.79"
+    },
+    {
+        "source": "T01-N",
+        "target": "T03-K",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-N",
+        "target": "W04-X",
+        "value": "0.6"
+    },
+    {
+        "source": "T01-N",
+        "target": "V07-F",
+        "value": "0.1"
+    },
+    {
+        "source": "T01-N",
+        "target": "W02-C",
+        "value": "0.23"
+    },
+    {
+        "source": "T01-N",
+        "target": "W04-H",
+        "value": "0.07"
+    },
+    {
+        "source": "T01-N",
+        "target": "X25-A",
+        "value": "0.55"
+    },
+    {
+        "source": "T01-N",
+        "target": "B12-K",
+        "value": "0.11"
+    },
+    {
+        "source": "T01-N",
+        "target": "W01-E",
+        "value": "0.16"
+    },
+    {
+        "source": "T01-N",
+        "target": "X12-H",
+        "value": "0.25"
+    },
+    {
+        "source": "T01-N",
+        "target": "T05-G",
+        "value": "0.33"
+    },
+    {
+        "source": "T01-N",
+        "target": "W02-F",
+        "value": "0.19"
+    },
+    {
+        "source": "T01-N",
+        "target": "W04-W",
+        "value": "0.3"
+    },
+    {
+        "source": "T01-N",
+        "target": "W05-B",
+        "value": "0.13"
+    },
+    {
+        "source": "T01-N",
+        "target": "W05-C",
+        "value": "0.08"
+    },
+    {
+        "source": "T01-N",
+        "target": "A11-B",
+        "value": "0.07"
+    },
+    {
+        "source": "T01-N",
+        "target": "A12-E",
+        "value": "0.12"
+    },
+    {
+        "source": "T01-N",
+        "target": "T05-F",
+        "value": "0.09"
+    },
+    {
+        "source": "T01-N",
+        "target": "S05-D",
+        "value": "0.09"
+    },
+    {
+        "source": "T01-N",
+        "target": "T04-D",
+        "value": "0.09"
+    },
+    {
+        "source": "T01-N",
+        "target": "S03-E",
+        "value": "0.13"
+    },
+    {
+        "source": "T01-N",
+        "target": "T03-P",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-N",
+        "target": "X27-A",
+        "value": "0.08"
+    },
+    {
+        "source": "T01-N",
+        "target": "T01-L",
+        "value": "0.49"
+    },
+    {
+        "source": "T01-N",
+        "target": "W03-A",
+        "value": "0.29"
+    },
+    {
+        "source": "T01-N",
+        "target": "B04-E",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-N",
+        "target": "X15-B",
+        "value": "0.14"
+    },
+    {
+        "source": "T01-N",
+        "target": "P76-C",
+        "value": "0.08"
+    },
+    {
+        "source": "T01-N",
+        "target": "S02-C",
+        "value": "0.09"
+    },
+    {
+        "source": "T01-N",
+        "target": "T05-H",
+        "value": "0.32"
+    },
+    {
+        "source": "T01-N",
+        "target": "U14-A",
+        "value": "0.07"
+    },
+    {
+        "source": "T01-N",
+        "target": "X21-A",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-N",
+        "target": "W05-D",
+        "value": "0.14"
+    },
+    {
+        "source": "T01-N",
+        "target": "X25-P",
+        "value": "0.1"
+    },
+    {
+        "source": "T01-N",
+        "target": "X27-E",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-N",
+        "target": "T05-D",
+        "value": "0.2"
+    },
+    {
+        "source": "T01-N",
+        "target": "Q31-A",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-N",
+        "target": "Q34-C",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-N",
+        "target": "Q34-X",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-N",
+        "target": "X25-F",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-N",
+        "target": "X22-X",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-N",
+        "target": "T05-C",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-N",
+        "target": "W04-V",
+        "value": "0.21"
+    },
+    {
+        "source": "W01-A",
+        "target": "T01-D",
+        "value": "6.09"
+    },
+    {
+        "source": "W01-A",
+        "target": "T01-J",
+        "value": "10.5"
+    },
+    {
+        "source": "W01-A",
+        "target": "S05-G",
+        "value": "0.13"
+    },
+    {
+        "source": "W01-A",
+        "target": "T01-E",
+        "value": "1.81"
+    },
+    {
+        "source": "W01-A",
+        "target": "T01-N",
+        "value": "16.4"
+    },
+    {
+        "source": "W01-A",
+        "target": "W01-A",
+        "value": "9.36"
+    },
+    {
+        "source": "W01-A",
+        "target": "W06-B",
+        "value": "0.07"
+    },
+    {
+        "source": "W01-A",
+        "target": "T01-H",
+        "value": "0.26"
+    },
+    {
+        "source": "W01-A",
+        "target": "T01-C",
+        "value": "0.6"
+    },
+    {
+        "source": "W01-A",
+        "target": "T01-S",
+        "value": "2.48"
+    },
+    {
+        "source": "W01-A",
+        "target": "T04-K",
+        "value": "0.08"
+    },
+    {
+        "source": "W01-A",
+        "target": "T05-L",
+        "value": "0.1"
+    },
+    {
+        "source": "W01-A",
+        "target": "T01-F",
+        "value": "0.6"
+    },
+    {
+        "source": "W01-A",
+        "target": "W01-C",
+        "value": "2.27"
+    },
+    {
+        "source": "W01-A",
+        "target": "W04-X",
+        "value": "0.13"
+    },
+    {
+        "source": "W01-A",
+        "target": "T01-M",
+        "value": "0.5"
+    },
+    {
+        "source": "W01-A",
+        "target": "V07-F",
+        "value": "0.1"
+    },
+    {
+        "source": "W01-A",
+        "target": "W02-C",
+        "value": "0.35"
+    },
+    {
+        "source": "W01-A",
+        "target": "W01-E",
+        "value": "0.18"
+    },
+    {
+        "source": "W01-A",
+        "target": "T06-A",
+        "value": "0.17"
+    },
+    {
+        "source": "W01-A",
+        "target": "W04-W",
+        "value": "0.08"
+    },
+    {
+        "source": "W01-A",
+        "target": "T01-G",
+        "value": "0.07"
+    },
+    {
+        "source": "W01-A",
+        "target": "T01-L",
+        "value": "0.12"
+    },
+    {
+        "source": "W01-A",
+        "target": "S02-C",
+        "value": "0.06"
+    },
+    {
+        "source": "W01-A",
+        "target": "T05-G",
+        "value": "0.1"
+    },
+    {
+        "source": "W01-A",
+        "target": "T05-D",
+        "value": "0.11"
+    },
+    {
+        "source": "W01-A",
+        "target": "B11-C",
+        "value": "0.06"
+    },
+    {
+        "source": "W01-A",
+        "target": "W02-G",
+        "value": "0.05"
+    },
+    {
+        "source": "W01-A",
+        "target": "W05-D",
+        "value": "0.07"
+    },
+    {
+        "source": "W01-A",
+        "target": "W04-V",
+        "value": "0.06"
+    },
+    {
+        "source": "S05-G",
+        "target": "T01-D",
+        "value": "0.08"
+    },
+    {
+        "source": "S05-G",
+        "target": "T01-J",
+        "value": "0.42"
+    },
+    {
+        "source": "S05-G",
+        "target": "T01-N",
+        "value": "0.13"
+    },
+    {
+        "source": "S05-G",
+        "target": "W01-A",
+        "value": "0.13"
+    },
+    {
+        "source": "S05-G",
+        "target": "B11-C",
+        "value": "0.06"
+    },
+    {
+        "source": "S05-G",
+        "target": "T01-S",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-E",
+        "target": "T01-D",
+        "value": "1.66"
+    },
+    {
+        "source": "T01-E",
+        "target": "T01-J",
+        "value": "5.87"
+    },
+    {
+        "source": "T01-E",
+        "target": "T01-N",
+        "value": "5.68"
+    },
+    {
+        "source": "T01-E",
+        "target": "W01-A",
+        "value": "1.81"
+    },
+    {
+        "source": "T01-E",
+        "target": "T01-C",
+        "value": "0.25"
+    },
+    {
+        "source": "T01-E",
+        "target": "T01-S",
+        "value": "1.02"
+    },
+    {
+        "source": "T01-E",
+        "target": "T01-G",
+        "value": "0.07"
+    },
+    {
+        "source": "T01-E",
+        "target": "W01-C",
+        "value": "0.41"
+    },
+    {
+        "source": "T01-E",
+        "target": "T01-E",
+        "value": "0.64"
+    },
+    {
+        "source": "T01-E",
+        "target": "T01-H",
+        "value": "0.21"
+    },
+    {
+        "source": "T01-E",
+        "target": "W04-X",
+        "value": "0.17"
+    },
+    {
+        "source": "T01-E",
+        "target": "T01-F",
+        "value": "0.3"
+    },
+    {
+        "source": "T01-E",
+        "target": "T01-M",
+        "value": "0.22"
+    },
+    {
+        "source": "T01-E",
+        "target": "T04-K",
+        "value": "0.07"
+    },
+    {
+        "source": "T01-E",
+        "target": "W02-C",
+        "value": "0.08"
+    },
+    {
+        "source": "T01-E",
+        "target": "B11-C",
+        "value": "0.18"
+    },
+    {
+        "source": "T01-E",
+        "target": "B12-K",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-E",
+        "target": "T04-D",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-E",
+        "target": "T05-H",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-E",
+        "target": "T01-L",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-E",
+        "target": "B04-E",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-E",
+        "target": "D05-H",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-E",
+        "target": "W05-D",
+        "value": "0.07"
+    },
+    {
+        "source": "T01-E",
+        "target": "W04-V",
+        "value": "0.06"
+    },
+    {
+        "source": "W06-B",
+        "target": "T01-D",
+        "value": "0.1"
+    },
+    {
+        "source": "W06-B",
+        "target": "T01-J",
+        "value": "0.41"
+    },
+    {
+        "source": "W06-B",
+        "target": "T01-N",
+        "value": "0.25"
+    },
+    {
+        "source": "W06-B",
+        "target": "W01-A",
+        "value": "0.07"
+    },
+    {
+        "source": "W06-B",
+        "target": "T01-S",
+        "value": "0.08"
+    },
+    {
+        "source": "W06-B",
+        "target": "T05-G",
+        "value": "0.1"
+    },
+    {
+        "source": "W06-B",
+        "target": "W06-B",
+        "value": "0.18"
+    },
+    {
+        "source": "T01-F",
+        "target": "T01-N",
+        "value": "3.92"
+    },
+    {
+        "source": "T01-F",
+        "target": "T01-G",
+        "value": "0.1"
+    },
+    {
+        "source": "T01-F",
+        "target": "T01-F",
+        "value": "1.34"
+    },
+    {
+        "source": "T01-F",
+        "target": "T01-H",
+        "value": "0.24"
+    },
+    {
+        "source": "T01-F",
+        "target": "T01-J",
+        "value": "2.06"
+    },
+    {
+        "source": "T01-F",
+        "target": "T01-C",
+        "value": "0.13"
+    },
+    {
+        "source": "T01-F",
+        "target": "T06-A",
+        "value": "0.08"
+    },
+    {
+        "source": "T01-F",
+        "target": "T01-D",
+        "value": "0.61"
+    },
+    {
+        "source": "T01-F",
+        "target": "W01-A",
+        "value": "0.6"
+    },
+    {
+        "source": "T01-F",
+        "target": "T01-E",
+        "value": "0.3"
+    },
+    {
+        "source": "T01-F",
+        "target": "T01-S",
+        "value": "0.52"
+    },
+    {
+        "source": "T01-F",
+        "target": "W01-C",
+        "value": "0.15"
+    },
+    {
+        "source": "T01-F",
+        "target": "W05-D",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-F",
+        "target": "T01-M",
+        "value": "0.05"
+    },
+    {
+        "source": "W04-E",
+        "target": "T01-J",
+        "value": "0.1"
+    },
+    {
+        "source": "W04-N",
+        "target": "T01-J",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-C",
+        "target": "T01-F",
+        "value": "0.13"
+    },
+    {
+        "source": "T01-C",
+        "target": "T01-N",
+        "value": "1.44"
+    },
+    {
+        "source": "T01-C",
+        "target": "T01-D",
+        "value": "0.29"
+    },
+    {
+        "source": "T01-C",
+        "target": "T01-S",
+        "value": "0.23"
+    },
+    {
+        "source": "T01-C",
+        "target": "W01-A",
+        "value": "0.6"
+    },
+    {
+        "source": "T01-C",
+        "target": "T01-E",
+        "value": "0.25"
+    },
+    {
+        "source": "T01-C",
+        "target": "T01-J",
+        "value": "0.71"
+    },
+    {
+        "source": "T01-C",
+        "target": "T01-M",
+        "value": "0.12"
+    },
+    {
+        "source": "T01-C",
+        "target": "T01-H",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-C",
+        "target": "W01-C",
+        "value": "0.15"
+    },
+    {
+        "source": "T01-C",
+        "target": "W04-X",
+        "value": "0.07"
+    },
+    {
+        "source": "T01-C",
+        "target": "T01-C",
+        "value": "0.12"
+    },
+    {
+        "source": "T01-S",
+        "target": "T01-C",
+        "value": "0.23"
+    },
+    {
+        "source": "T01-S",
+        "target": "T01-D",
+        "value": "1.96"
+    },
+    {
+        "source": "T01-S",
+        "target": "T01-N",
+        "value": "8.5"
+    },
+    {
+        "source": "T01-S",
+        "target": "W01-A",
+        "value": "2.48"
+    },
+    {
+        "source": "T01-S",
+        "target": "T01-E",
+        "value": "1.02"
+    },
+    {
+        "source": "T01-S",
+        "target": "T01-G",
+        "value": "0.08"
+    },
+    {
+        "source": "T01-S",
+        "target": "T01-J",
+        "value": "6.63"
+    },
+    {
+        "source": "T01-S",
+        "target": "W01-C",
+        "value": "0.63"
+    },
+    {
+        "source": "T01-S",
+        "target": "T05-L",
+        "value": "0.11"
+    },
+    {
+        "source": "T01-S",
+        "target": "T01-M",
+        "value": "0.22"
+    },
+    {
+        "source": "T01-S",
+        "target": "T01-H",
+        "value": "0.26"
+    },
+    {
+        "source": "T01-S",
+        "target": "W04-X",
+        "value": "0.15"
+    },
+    {
+        "source": "T01-S",
+        "target": "T01-F",
+        "value": "0.52"
+    },
+    {
+        "source": "T01-S",
+        "target": "X25-A",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-S",
+        "target": "W06-B",
+        "value": "0.08"
+    },
+    {
+        "source": "T01-S",
+        "target": "B11-C",
+        "value": "0.14"
+    },
+    {
+        "source": "T01-S",
+        "target": "S05-G",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-S",
+        "target": "W02-C",
+        "value": "0.07"
+    },
+    {
+        "source": "T01-S",
+        "target": "W03-A",
+        "value": "0.06"
+    },
+    {
+        "source": "T01-S",
+        "target": "T06-A",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-S",
+        "target": "T01-L",
+        "value": "0.07"
+    },
+    {
+        "source": "T01-S",
+        "target": "T05-D",
+        "value": "0.05"
+    },
+    {
+        "source": "W01-C",
+        "target": "T01-E",
+        "value": "0.41"
+    },
+    {
+        "source": "W01-C",
+        "target": "T01-J",
+        "value": "2.68"
+    },
+    {
+        "source": "W01-C",
+        "target": "T01-N",
+        "value": "5.16"
+    },
+    {
+        "source": "W01-C",
+        "target": "T01-S",
+        "value": "0.63"
+    },
+    {
+        "source": "W01-C",
+        "target": "W01-C",
+        "value": "2.42"
+    },
+    {
+        "source": "W01-C",
+        "target": "W01-A",
+        "value": "2.27"
+    },
+    {
+        "source": "W01-C",
+        "target": "T01-D",
+        "value": "1.14"
+    },
+    {
+        "source": "W01-C",
+        "target": "W04-X",
+        "value": "0.08"
+    },
+    {
+        "source": "W01-C",
+        "target": "W01-E",
+        "value": "0.05"
+    },
+    {
+        "source": "W01-C",
+        "target": "T01-F",
+        "value": "0.15"
+    },
+    {
+        "source": "W01-C",
+        "target": "T01-H",
+        "value": "0.05"
+    },
+    {
+        "source": "W01-C",
+        "target": "W04-W",
+        "value": "0.12"
+    },
+    {
+        "source": "W01-C",
+        "target": "T01-M",
+        "value": "0.49"
+    },
+    {
+        "source": "W01-C",
+        "target": "T05-L",
+        "value": "0.13"
+    },
+    {
+        "source": "W01-C",
+        "target": "T01-C",
+        "value": "0.15"
+    },
+    {
+        "source": "W01-C",
+        "target": "T05-H",
+        "value": "0.13"
+    },
+    {
+        "source": "W01-C",
+        "target": "B11-C",
+        "value": "0.06"
+    },
+    {
+        "source": "W01-C",
+        "target": "T01-L",
+        "value": "0.08"
+    },
+    {
+        "source": "W01-C",
+        "target": "T05-D",
+        "value": "0.05"
+    },
+    {
+        "source": "W01-C",
+        "target": "W04-V",
+        "value": "0.12"
+    },
+    {
+        "source": "B11-C",
+        "target": "B11-C",
+        "value": "0.6"
+    },
+    {
+        "source": "B11-C",
+        "target": "D05-H",
+        "value": "0.25"
+    },
+    {
+        "source": "B11-C",
+        "target": "T01-D",
+        "value": "0.17"
+    },
+    {
+        "source": "B11-C",
+        "target": "T01-N",
+        "value": "0.51"
+    },
+    {
+        "source": "B11-C",
+        "target": "T01-J",
+        "value": "0.63"
+    },
+    {
+        "source": "B11-C",
+        "target": "B12-K",
+        "value": "0.25"
+    },
+    {
+        "source": "B11-C",
+        "target": "T01-E",
+        "value": "0.18"
+    },
+    {
+        "source": "B11-C",
+        "target": "T01-M",
+        "value": "0.07"
+    },
+    {
+        "source": "B11-C",
+        "target": "S05-G",
+        "value": "0.06"
+    },
+    {
+        "source": "B11-C",
+        "target": "T01-S",
+        "value": "0.14"
+    },
+    {
+        "source": "B11-C",
+        "target": "B04-E",
+        "value": "0.24"
+    },
+    {
+        "source": "B11-C",
+        "target": "T01-L",
+        "value": "0.05"
+    },
+    {
+        "source": "B11-C",
+        "target": "W01-C",
+        "value": "0.06"
+    },
+    {
+        "source": "B11-C",
+        "target": "W01-A",
+        "value": "0.06"
+    },
+    {
+        "source": "B11-C",
+        "target": "B04-B",
+        "value": "0.05"
+    },
+    {
+        "source": "B11-C",
+        "target": "T01-G",
+        "value": "0.05"
+    },
+    {
+        "source": "D05-H",
+        "target": "B11-C",
+        "value": "0.25"
+    },
+    {
+        "source": "D05-H",
+        "target": "T01-D",
+        "value": "0.05"
+    },
+    {
+        "source": "D05-H",
+        "target": "T01-N",
+        "value": "0.12"
+    },
+    {
+        "source": "D05-H",
+        "target": "B04-E",
+        "value": "0.16"
+    },
+    {
+        "source": "D05-H",
+        "target": "B12-K",
+        "value": "0.09"
+    },
+    {
+        "source": "D05-H",
+        "target": "T01-J",
+        "value": "0.22"
+    },
+    {
+        "source": "D05-H",
+        "target": "D05-H",
+        "value": "0.08"
+    },
+    {
+        "source": "D05-H",
+        "target": "T01-E",
+        "value": "0.05"
+    },
+    {
+        "source": "W02-F",
+        "target": "T01-D",
+        "value": "0.06"
+    },
+    {
+        "source": "W02-F",
+        "target": "T01-J",
+        "value": "0.14"
+    },
+    {
+        "source": "W02-F",
+        "target": "W02-F",
+        "value": "0.08"
+    },
+    {
+        "source": "W02-F",
+        "target": "T01-N",
+        "value": "0.19"
+    },
+    {
+        "source": "W02-F",
+        "target": "W03-A",
+        "value": "0.16"
+    },
+    {
+        "source": "T06-A",
+        "target": "T01-F",
+        "value": "0.08"
+    },
+    {
+        "source": "T06-A",
+        "target": "T01-N",
+        "value": "0.33"
+    },
+    {
+        "source": "T06-A",
+        "target": "T01-D",
+        "value": "0.08"
+    },
+    {
+        "source": "T06-A",
+        "target": "T01-J",
+        "value": "0.8"
+    },
+    {
+        "source": "T06-A",
+        "target": "T06-A",
+        "value": "0.44"
+    },
+    {
+        "source": "T06-A",
+        "target": "X12-H",
+        "value": "0.06"
+    },
+    {
+        "source": "T06-A",
+        "target": "T01-H",
+        "value": "0.08"
+    },
+    {
+        "source": "T06-A",
+        "target": "T01-M",
+        "value": "0.05"
+    },
+    {
+        "source": "T06-A",
+        "target": "W01-A",
+        "value": "0.17"
+    },
+    {
+        "source": "T06-A",
+        "target": "X25-A",
+        "value": "0.06"
+    },
+    {
+        "source": "T06-A",
+        "target": "X15-B",
+        "value": "0.07"
+    },
+    {
+        "source": "T06-A",
+        "target": "T01-S",
+        "value": "0.05"
+    },
+    {
+        "source": "T06-A",
+        "target": "W02-G",
+        "value": "0.05"
+    },
+    {
+        "source": "T04-K",
+        "target": "T01-D",
+        "value": "0.06"
+    },
+    {
+        "source": "T04-K",
+        "target": "T01-N",
+        "value": "0.35"
+    },
+    {
+        "source": "T04-K",
+        "target": "W01-A",
+        "value": "0.08"
+    },
+    {
+        "source": "T04-K",
+        "target": "T01-E",
+        "value": "0.07"
+    },
+    {
+        "source": "T04-K",
+        "target": "T01-J",
+        "value": "0.29"
+    },
+    {
+        "source": "T04-K",
+        "target": "P76-C",
+        "value": "0.06"
+    },
+    {
+        "source": "T04-K",
+        "target": "T04-K",
+        "value": "0.06"
+    },
+    {
+        "source": "T05-L",
+        "target": "T01-D",
+        "value": "0.11"
+    },
+    {
+        "source": "T05-L",
+        "target": "T01-J",
+        "value": "0.68"
+    },
+    {
+        "source": "T05-L",
+        "target": "T01-N",
+        "value": "0.79"
+    },
+    {
+        "source": "T05-L",
+        "target": "T01-S",
+        "value": "0.11"
+    },
+    {
+        "source": "T05-L",
+        "target": "W01-A",
+        "value": "0.1"
+    },
+    {
+        "source": "T05-L",
+        "target": "T05-L",
+        "value": "0.52"
+    },
+    {
+        "source": "T05-L",
+        "target": "W01-C",
+        "value": "0.13"
+    },
+    {
+        "source": "V07-F",
+        "target": "T01-N",
+        "value": "0.1"
+    },
+    {
+        "source": "V07-F",
+        "target": "W01-A",
+        "value": "0.1"
+    },
+    {
+        "source": "A12-E",
+        "target": "A11-B",
+        "value": "0.07"
+    },
+    {
+        "source": "A12-E",
+        "target": "T01-J",
+        "value": "0.26"
+    },
+    {
+        "source": "A12-E",
+        "target": "T01-N",
+        "value": "0.12"
+    },
+    {
+        "source": "A12-E",
+        "target": "X25-A",
+        "value": "0.15"
+    },
+    {
+        "source": "T03-K",
+        "target": "T01-N",
+        "value": "0.06"
+    },
+    {
+        "source": "W04-X",
+        "target": "T01-E",
+        "value": "0.17"
+    },
+    {
+        "source": "W04-X",
+        "target": "T01-J",
+        "value": "0.45"
+    },
+    {
+        "source": "W04-X",
+        "target": "T01-N",
+        "value": "0.6"
+    },
+    {
+        "source": "W04-X",
+        "target": "W01-A",
+        "value": "0.13"
+    },
+    {
+        "source": "W04-X",
+        "target": "W01-C",
+        "value": "0.08"
+    },
+    {
+        "source": "W04-X",
+        "target": "T01-S",
+        "value": "0.15"
+    },
+    {
+        "source": "W04-X",
+        "target": "T01-D",
+        "value": "0.14"
+    },
+    {
+        "source": "W04-X",
+        "target": "W04-X",
+        "value": "0.18"
+    },
+    {
+        "source": "W04-X",
+        "target": "T05-H",
+        "value": "0.14"
+    },
+    {
+        "source": "W04-X",
+        "target": "T01-C",
+        "value": "0.07"
+    },
+    {
+        "source": "W04-X",
+        "target": "X16-B",
+        "value": "0.06"
+    },
+    {
+        "source": "U14-A",
+        "target": "T01-J",
+        "value": "0.05"
+    },
+    {
+        "source": "U14-A",
+        "target": "T01-N",
+        "value": "0.07"
+    },
+    {
+        "source": "W02-C",
+        "target": "T01-D",
+        "value": "0.08"
+    },
+    {
+        "source": "W02-C",
+        "target": "T01-E",
+        "value": "0.08"
+    },
+    {
+        "source": "W02-C",
+        "target": "T01-J",
+        "value": "0.27"
+    },
+    {
+        "source": "W02-C",
+        "target": "T01-N",
+        "value": "0.23"
+    },
+    {
+        "source": "W02-C",
+        "target": "W01-A",
+        "value": "0.35"
+    },
+    {
+        "source": "W02-C",
+        "target": "T01-S",
+        "value": "0.07"
+    },
+    {
+        "source": "W02-C",
+        "target": "W02-C",
+        "value": "0.12"
+    },
+    {
+        "source": "W04-H",
+        "target": "T01-J",
+        "value": "0.09"
+    },
+    {
+        "source": "W04-H",
+        "target": "T01-N",
+        "value": "0.07"
+    },
+    {
+        "source": "X25-A",
+        "target": "T01-J",
+        "value": "0.68"
+    },
+    {
+        "source": "X25-A",
+        "target": "T01-N",
+        "value": "0.55"
+    },
+    {
+        "source": "X25-A",
+        "target": "T01-S",
+        "value": "0.06"
+    },
+    {
+        "source": "X25-A",
+        "target": "A09-D",
+        "value": "0.06"
+    },
+    {
+        "source": "X25-A",
+        "target": "A11-B",
+        "value": "0.15"
+    },
+    {
+        "source": "X25-A",
+        "target": "A12-E",
+        "value": "0.15"
+    },
+    {
+        "source": "X25-A",
+        "target": "T06-A",
+        "value": "0.06"
+    },
+    {
+        "source": "X25-A",
+        "target": "X25-A",
+        "value": "0.6"
+    },
+    {
+        "source": "X25-A",
+        "target": "T01-D",
+        "value": "0.08"
+    },
+    {
+        "source": "X25-A",
+        "target": "A11-C",
+        "value": "0.06"
+    },
+    {
+        "source": "X25-A",
+        "target": "X25-P",
+        "value": "0.1"
+    },
+    {
+        "source": "B12-K",
+        "target": "B11-C",
+        "value": "0.25"
+    },
+    {
+        "source": "B12-K",
+        "target": "T01-E",
+        "value": "0.06"
+    },
+    {
+        "source": "B12-K",
+        "target": "T01-J",
+        "value": "0.21"
+    },
+    {
+        "source": "B12-K",
+        "target": "T01-N",
+        "value": "0.11"
+    },
+    {
+        "source": "B12-K",
+        "target": "B04-E",
+        "value": "0.12"
+    },
+    {
+        "source": "B12-K",
+        "target": "D05-H",
+        "value": "0.09"
+    },
+    {
+        "source": "W01-E",
+        "target": "T01-N",
+        "value": "0.16"
+    },
+    {
+        "source": "W01-E",
+        "target": "W01-A",
+        "value": "0.18"
+    },
+    {
+        "source": "W01-E",
+        "target": "W01-C",
+        "value": "0.05"
+    },
+    {
+        "source": "W01-E",
+        "target": "T01-J",
+        "value": "0.06"
+    },
+    {
+        "source": "X12-H",
+        "target": "T01-J",
+        "value": "0.11"
+    },
+    {
+        "source": "X12-H",
+        "target": "T01-N",
+        "value": "0.25"
+    },
+    {
+        "source": "X12-H",
+        "target": "T06-A",
+        "value": "0.06"
+    },
+    {
+        "source": "X12-H",
+        "target": "X12-H",
+        "value": "0.08"
+    },
+    {
+        "source": "T05-G",
+        "target": "T01-D",
+        "value": "0.08"
+    },
+    {
+        "source": "T05-G",
+        "target": "T01-J",
+        "value": "0.42"
+    },
+    {
+        "source": "T05-G",
+        "target": "T01-N",
+        "value": "0.33"
+    },
+    {
+        "source": "T05-G",
+        "target": "T05-G",
+        "value": "0.1"
+    },
+    {
+        "source": "T05-G",
+        "target": "W06-B",
+        "value": "0.1"
+    },
+    {
+        "source": "T05-G",
+        "target": "W01-A",
+        "value": "0.1"
+    },
+    {
+        "source": "T05-G",
+        "target": "T05-D",
+        "value": "0.07"
+    },
+    {
+        "source": "T05-G",
+        "target": "X22-X",
+        "value": "0.06"
+    },
+    {
+        "source": "W06-A",
+        "target": "T01-J",
+        "value": "0.06"
+    },
+    {
+        "source": "T04-E",
+        "target": "T01-J",
+        "value": "0.06"
+    },
+    {
+        "source": "W04-W",
+        "target": "T01-D",
+        "value": "0.05"
+    },
+    {
+        "source": "W04-W",
+        "target": "T01-J",
+        "value": "0.21"
+    },
+    {
+        "source": "W04-W",
+        "target": "T01-N",
+        "value": "0.3"
+    },
+    {
+        "source": "W04-W",
+        "target": "W01-A",
+        "value": "0.08"
+    },
+    {
+        "source": "W04-W",
+        "target": "W01-C",
+        "value": "0.12"
+    },
+    {
+        "source": "W05-B",
+        "target": "T01-J",
+        "value": "0.1"
+    },
+    {
+        "source": "W05-B",
+        "target": "T01-N",
+        "value": "0.13"
+    },
+    {
+        "source": "W05-B",
+        "target": "W05-D",
+        "value": "0.06"
+    },
+    {
+        "source": "W05-B",
+        "target": "X16-B",
+        "value": "0.06"
+    },
+    {
+        "source": "W05-C",
+        "target": "T01-N",
+        "value": "0.08"
+    },
+    {
+        "source": "S05-B",
+        "target": "T01-J",
+        "value": "0.05"
+    },
+    {
+        "source": "W04-G",
+        "target": "T01-J",
+        "value": "0.05"
+    },
+    {
+        "source": "A09-D",
+        "target": "X25-A",
+        "value": "0.06"
+    },
+    {
+        "source": "A11-B",
+        "target": "A12-E",
+        "value": "0.07"
+    },
+    {
+        "source": "A11-B",
+        "target": "T01-J",
+        "value": "0.16"
+    },
+    {
+        "source": "A11-B",
+        "target": "T01-N",
+        "value": "0.07"
+    },
+    {
+        "source": "A11-B",
+        "target": "X25-A",
+        "value": "0.15"
+    },
+    {
+        "source": "T06-D",
+        "target": "T01-J",
+        "value": "0.07"
+    },
+    {
+        "source": "T05-F",
+        "target": "T01-N",
+        "value": "0.09"
+    },
+    {
+        "source": "S05-D",
+        "target": "T01-J",
+        "value": "0.14"
+    },
+    {
+        "source": "S05-D",
+        "target": "T01-N",
+        "value": "0.09"
+    },
+    {
+        "source": "T04-D",
+        "target": "T01-E",
+        "value": "0.05"
+    },
+    {
+        "source": "T04-D",
+        "target": "T01-J",
+        "value": "0.13"
+    },
+    {
+        "source": "T04-D",
+        "target": "T01-N",
+        "value": "0.09"
+    },
+    {
+        "source": "S03-E",
+        "target": "T01-J",
+        "value": "0.09"
+    },
+    {
+        "source": "S03-E",
+        "target": "T01-N",
+        "value": "0.13"
+    },
+    {
+        "source": "T03-P",
+        "target": "T01-N",
+        "value": "0.05"
+    },
+    {
+        "source": "X27-A",
+        "target": "T01-N",
+        "value": "0.08"
+    },
+    {
+        "source": "T01-L",
+        "target": "T01-J",
+        "value": "0.33"
+    },
+    {
+        "source": "T01-L",
+        "target": "T01-N",
+        "value": "0.49"
+    },
+    {
+        "source": "T01-L",
+        "target": "W01-A",
+        "value": "0.12"
+    },
+    {
+        "source": "T01-L",
+        "target": "T01-D",
+        "value": "0.11"
+    },
+    {
+        "source": "T01-L",
+        "target": "T01-S",
+        "value": "0.07"
+    },
+    {
+        "source": "T01-L",
+        "target": "B11-C",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-L",
+        "target": "T01-E",
+        "value": "0.05"
+    },
+    {
+        "source": "T01-L",
+        "target": "W01-C",
+        "value": "0.08"
+    },
+    {
+        "source": "D03-K",
+        "target": "T01-J",
+        "value": "0.06"
+    },
+    {
+        "source": "W03-A",
+        "target": "T01-N",
+        "value": "0.29"
+    },
+    {
+        "source": "W03-A",
+        "target": "T01-S",
+        "value": "0.06"
+    },
+    {
+        "source": "W03-A",
+        "target": "W02-F",
+        "value": "0.16"
+    },
+    {
+        "source": "W03-A",
+        "target": "W03-A",
+        "value": "0.28"
+    },
+    {
+        "source": "W03-A",
+        "target": "T01-J",
+        "value": "0.16"
+    },
+    {
+        "source": "B04-E",
+        "target": "B11-C",
+        "value": "0.24"
+    },
+    {
+        "source": "B04-E",
+        "target": "B12-K",
+        "value": "0.12"
+    },
+    {
+        "source": "B04-E",
+        "target": "D05-H",
+        "value": "0.16"
+    },
+    {
+        "source": "B04-E",
+        "target": "T01-J",
+        "value": "0.26"
+    },
+    {
+        "source": "B04-E",
+        "target": "T01-N",
+        "value": "0.06"
+    },
+    {
+        "source": "B04-E",
+        "target": "B04-E",
+        "value": "0.14"
+    },
+    {
+        "source": "B04-E",
+        "target": "T01-E",
+        "value": "0.06"
+    },
+    {
+        "source": "X15-B",
+        "target": "T01-J",
+        "value": "0.18"
+    },
+    {
+        "source": "X15-B",
+        "target": "T01-N",
+        "value": "0.14"
+    },
+    {
+        "source": "X15-B",
+        "target": "T06-A",
+        "value": "0.07"
+    },
+    {
+        "source": "X15-B",
+        "target": "X15-B",
+        "value": "0.06"
+    },
+    {
+        "source": "P76-C",
+        "target": "T01-N",
+        "value": "0.08"
+    },
+    {
+        "source": "P76-C",
+        "target": "T04-K",
+        "value": "0.06"
+    },
+    {
+        "source": "A11-C",
+        "target": "T01-J",
+        "value": "0.12"
+    },
+    {
+        "source": "A11-C",
+        "target": "X25-A",
+        "value": "0.06"
+    },
+    {
+        "source": "T05-C",
+        "target": "T01-J",
+        "value": "0.13"
+    },
+    {
+        "source": "T05-C",
+        "target": "T05-D",
+        "value": "0.07"
+    },
+    {
+        "source": "T05-C",
+        "target": "T01-N",
+        "value": "0.05"
+    },
+    {
+        "source": "S02-C",
+        "target": "S02-C",
+        "value": "0.06"
+    },
+    {
+        "source": "S02-C",
+        "target": "T01-N",
+        "value": "0.09"
+    },
+    {
+        "source": "S02-C",
+        "target": "W01-A",
+        "value": "0.06"
+    },
+    {
+        "source": "T05-H",
+        "target": "T01-N",
+        "value": "0.32"
+    },
+    {
+        "source": "T05-H",
+        "target": "T05-H",
+        "value": "0.14"
+    },
+    {
+        "source": "T05-H",
+        "target": "W01-C",
+        "value": "0.13"
+    },
+    {
+        "source": "T05-H",
+        "target": "T01-D",
+        "value": "0.05"
+    },
+    {
+        "source": "T05-H",
+        "target": "T01-J",
+        "value": "0.16"
+    },
+    {
+        "source": "T05-H",
+        "target": "W04-X",
+        "value": "0.14"
+    },
+    {
+        "source": "T05-H",
+        "target": "T01-E",
+        "value": "0.05"
+    },
+    {
+        "source": "X21-A",
+        "target": "T01-J",
+        "value": "0.09"
+    },
+    {
+        "source": "X21-A",
+        "target": "T01-N",
+        "value": "0.05"
+    },
+    {
+        "source": "T05-D",
+        "target": "T01-J",
+        "value": "0.31"
+    },
+    {
+        "source": "T05-D",
+        "target": "T05-C",
+        "value": "0.07"
+    },
+    {
+        "source": "T05-D",
+        "target": "T05-D",
+        "value": "0.08"
+    },
+    {
+        "source": "T05-D",
+        "target": "T01-N",
+        "value": "0.2"
+    },
+    {
+        "source": "T05-D",
+        "target": "W01-A",
+        "value": "0.11"
+    },
+    {
+        "source": "T05-D",
+        "target": "T01-S",
+        "value": "0.05"
+    },
+    {
+        "source": "T05-D",
+        "target": "T05-G",
+        "value": "0.07"
+    },
+    {
+        "source": "T05-D",
+        "target": "W01-C",
+        "value": "0.05"
+    },
+    {
+        "source": "W06-C",
+        "target": "T01-J",
+        "value": "0.11"
+    },
+    {
+        "source": "W06-C",
+        "target": "X16-B",
+        "value": "0.06"
+    },
+    {
+        "source": "W05-D",
+        "target": "T01-D",
+        "value": "0.1"
+    },
+    {
+        "source": "W05-D",
+        "target": "T01-F",
+        "value": "0.06"
+    },
+    {
+        "source": "W05-D",
+        "target": "T01-N",
+        "value": "0.14"
+    },
+    {
+        "source": "W05-D",
+        "target": "W05-D",
+        "value": "0.46"
+    },
+    {
+        "source": "W05-D",
+        "target": "T01-J",
+        "value": "0.2"
+    },
+    {
+        "source": "W05-D",
+        "target": "W05-B",
+        "value": "0.06"
+    },
+    {
+        "source": "W05-D",
+        "target": "T01-E",
+        "value": "0.07"
+    },
+    {
+        "source": "W05-D",
+        "target": "W01-A",
+        "value": "0.07"
+    },
+    {
+        "source": "X25-P",
+        "target": "T01-J",
+        "value": "0.1"
+    },
+    {
+        "source": "X25-P",
+        "target": "T01-N",
+        "value": "0.1"
+    },
+    {
+        "source": "X25-P",
+        "target": "X25-A",
+        "value": "0.1"
+    },
+    {
+        "source": "A12-V",
+        "target": "T01-J",
+        "value": "0.07"
+    },
+    {
+        "source": "X27-E",
+        "target": "T01-N",
+        "value": "0.06"
+    },
+    {
+        "source": "Q31-A",
+        "target": "T01-N",
+        "value": "0.05"
+    },
+    {
+        "source": "Q34-C",
+        "target": "T01-N",
+        "value": "0.05"
+    },
+    {
+        "source": "Q34-X",
+        "target": "T01-N",
+        "value": "0.05"
+    },
+    {
+        "source": "X25-F",
+        "target": "T01-N",
+        "value": "0.05"
+    },
+    {
+        "source": "P31-A",
+        "target": "T01-J",
+        "value": "0.06"
+    },
+    {
+        "source": "W02-G",
+        "target": "T01-J",
+        "value": "0.06"
+    },
+    {
+        "source": "W02-G",
+        "target": "T06-A",
+        "value": "0.05"
+    },
+    {
+        "source": "W02-G",
+        "target": "W01-A",
+        "value": "0.05"
+    },
+    {
+        "source": "S02-B",
+        "target": "T01-J",
+        "value": "0.06"
+    },
+    {
+        "source": "X22-K",
+        "target": "X22-X",
+        "value": "0.06"
+    },
+    {
+        "source": "X22-X",
+        "target": "T01-N",
+        "value": "0.06"
+    },
+    {
+        "source": "X22-X",
+        "target": "T05-G",
+        "value": "0.06"
+    },
+    {
+        "source": "X22-X",
+        "target": "X22-K",
+        "value": "0.06"
+    },
+    {
+        "source": "X22-X",
+        "target": "X22-X",
+        "value": "0.06"
+    },
+    {
+        "source": "W04-V",
+        "target": "T01-E",
+        "value": "0.06"
+    },
+    {
+        "source": "W04-V",
+        "target": "T01-J",
+        "value": "0.15"
+    },
+    {
+        "source": "W04-V",
+        "target": "T01-N",
+        "value": "0.21"
+    },
+    {
+        "source": "W04-V",
+        "target": "W01-A",
+        "value": "0.06"
+    },
+    {
+        "source": "W04-V",
+        "target": "W01-C",
+        "value": "0.12"
+    },
+    {
+        "source": "W04-V",
+        "target": "W04-V",
+        "value": "0.06"
+    },
+    {
+        "source": "X16-B",
+        "target": "T01-J",
+        "value": "0.08"
+    },
+    {
+        "source": "X16-B",
+        "target": "W04-X",
+        "value": "0.06"
+    },
+    {
+        "source": "X16-B",
+        "target": "W05-B",
+        "value": "0.06"
+    },
+    {
+        "source": "X16-B",
+        "target": "W06-C",
+        "value": "0.06"
+    },
+    {
+        "source": "X16-B",
+        "target": "X16-B",
+        "value": "0.06"
+    },
+    {
+        "source": "S06-G",
+        "target": "T01-J",
+        "value": "0.05"
+    },
+    {
+        "source": "B04-B",
+        "target": "B11-C",
+        "value": "0.05"
+    }
+]

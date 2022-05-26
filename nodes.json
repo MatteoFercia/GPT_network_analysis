@@ -1,0 +1,402 @@
+[
+    {
+        "id": "T01-H",
+        "group": "4",
+        "weight": "7.14"
+    },
+    {
+        "id": "T01-D",
+        "group": "1",
+        "weight": "8.36"
+    },
+    {
+        "id": "T01-N",
+        "group": "1",
+        "weight": "9.7"
+    },
+    {
+        "id": "T01-J",
+        "group": "0",
+        "weight": "9.44"
+    },
+    {
+        "id": "T01-M",
+        "group": "5",
+        "weight": "6.58"
+    },
+    {
+        "id": "T01-G",
+        "group": "6",
+        "weight": "4.0"
+    },
+    {
+        "id": "W01-A",
+        "group": "2",
+        "weight": "8.61"
+    },
+    {
+        "id": "S05-G",
+        "group": "3",
+        "weight": "4.0"
+    },
+    {
+        "id": "T01-F",
+        "group": "4",
+        "weight": "7.41"
+    },
+    {
+        "id": "W06-B",
+        "group": "7",
+        "weight": "4.0"
+    },
+    {
+        "id": "T01-E",
+        "group": "2",
+        "weight": "7.79"
+    },
+    {
+        "id": "W04-E",
+        "group": "8",
+        "weight": "4.0"
+    },
+    {
+        "id": "W04-N",
+        "group": "10",
+        "weight": "6.33"
+    },
+    {
+        "id": "T01-C",
+        "group": "3",
+        "weight": "6.37"
+    },
+    {
+        "id": "T01-S",
+        "group": "2",
+        "weight": "8.31"
+    },
+    {
+        "id": "W01-C",
+        "group": "3",
+        "weight": "7.67"
+    },
+    {
+        "id": "W02-F",
+        "group": "8",
+        "weight": "4.0"
+    },
+    {
+        "id": "D05-H",
+        "group": "9",
+        "weight": "4.0"
+    },
+    {
+        "id": "B11-C",
+        "group": "4",
+        "weight": "4.0"
+    },
+    {
+        "id": "T06-A",
+        "group": "3",
+        "weight": "4.0"
+    },
+    {
+        "id": "T05-L",
+        "group": "7",
+        "weight": "6.35"
+    },
+    {
+        "id": "V07-F",
+        "group": "5",
+        "weight": "4.0"
+    },
+    {
+        "id": "T04-K",
+        "group": "5",
+        "weight": "4.0"
+    },
+    {
+        "id": "W04-H",
+        "group": "10",
+        "weight": "4.0"
+    },
+    {
+        "id": "W02-C",
+        "group": "6",
+        "weight": "4.0"
+    },
+    {
+        "id": "W04-X",
+        "group": "6",
+        "weight": "4.0"
+    },
+    {
+        "id": "U14-A",
+        "group": "10",
+        "weight": "4.0"
+    },
+    {
+        "id": "T03-K",
+        "group": "10",
+        "weight": "4.0"
+    },
+    {
+        "id": "A12-E",
+        "group": "5",
+        "weight": "4.0"
+    },
+    {
+        "id": "X25-A",
+        "group": "5",
+        "weight": "4.0"
+    },
+    {
+        "id": "D03-K",
+        "group": "10",
+        "weight": "4.0"
+    },
+    {
+        "id": "W06-A",
+        "group": "8",
+        "weight": "4.0"
+    },
+    {
+        "id": "S05-D",
+        "group": "5",
+        "weight": "4.0"
+    },
+    {
+        "id": "W04-G",
+        "group": "8",
+        "weight": "4.0"
+    },
+    {
+        "id": "T01-L",
+        "group": "6",
+        "weight": "4.0"
+    },
+    {
+        "id": "S05-B",
+        "group": "8",
+        "weight": "4.0"
+    },
+    {
+        "id": "S03-E",
+        "group": "6",
+        "weight": "4.0"
+    },
+    {
+        "id": "T04-D",
+        "group": "6",
+        "weight": "4.0"
+    },
+    {
+        "id": "X12-H",
+        "group": "7",
+        "weight": "4.0"
+    },
+    {
+        "id": "A11-B",
+        "group": "7",
+        "weight": "4.0"
+    },
+    {
+        "id": "W01-E",
+        "group": "9",
+        "weight": "4.0"
+    },
+    {
+        "id": "T05-G",
+        "group": "6",
+        "weight": "4.0"
+    },
+    {
+        "id": "W05-C",
+        "group": "10",
+        "weight": "4.0"
+    },
+    {
+        "id": "T05-F",
+        "group": "9",
+        "weight": "4.0"
+    },
+    {
+        "id": "T04-E",
+        "group": "10",
+        "weight": "4.0"
+    },
+    {
+        "id": "T03-P",
+        "group": "10",
+        "weight": "4.0"
+    },
+    {
+        "id": "A09-D",
+        "group": "10",
+        "weight": "4.0"
+    },
+    {
+        "id": "W05-B",
+        "group": "7",
+        "weight": "4.0"
+    },
+    {
+        "id": "W04-W",
+        "group": "7",
+        "weight": "4.0"
+    },
+    {
+        "id": "T06-D",
+        "group": "8",
+        "weight": "4.0"
+    },
+    {
+        "id": "T05-D",
+        "group": "9",
+        "weight": "4.0"
+    },
+    {
+        "id": "X27-A",
+        "group": "10",
+        "weight": "4.0"
+    },
+    {
+        "id": "W03-A",
+        "group": "8",
+        "weight": "4.0"
+    },
+    {
+        "id": "B12-K",
+        "group": "7",
+        "weight": "4.0"
+    },
+    {
+        "id": "Q34-X",
+        "group": "10",
+        "weight": "4.0"
+    },
+    {
+        "id": "X25-P",
+        "group": "6",
+        "weight": "4.0"
+    },
+    {
+        "id": "S02-B",
+        "group": "6",
+        "weight": "4.0"
+    },
+    {
+        "id": "P31-A",
+        "group": "6",
+        "weight": "4.0"
+    },
+    {
+        "id": "A11-C",
+        "group": "6",
+        "weight": "4.0"
+    },
+    {
+        "id": "X15-B",
+        "group": "7",
+        "weight": "4.0"
+    },
+    {
+        "id": "T05-H",
+        "group": "6",
+        "weight": "4.0"
+    },
+    {
+        "id": "W05-D",
+        "group": "8",
+        "weight": "4.0"
+    },
+    {
+        "id": "B04-E",
+        "group": "9",
+        "weight": "4.0"
+    },
+    {
+        "id": "A12-V",
+        "group": "5",
+        "weight": "4.0"
+    },
+    {
+        "id": "W06-C",
+        "group": "7",
+        "weight": "4.0"
+    },
+    {
+        "id": "W02-G",
+        "group": "9",
+        "weight": "4.0"
+    },
+    {
+        "id": "X21-A",
+        "group": "7",
+        "weight": "4.0"
+    },
+    {
+        "id": "X25-F",
+        "group": "10",
+        "weight": "4.0"
+    },
+    {
+        "id": "Q34-C",
+        "group": "10",
+        "weight": "4.0"
+    },
+    {
+        "id": "X27-E",
+        "group": "8",
+        "weight": "4.0"
+    },
+    {
+        "id": "P76-C",
+        "group": "10",
+        "weight": "4.0"
+    },
+    {
+        "id": "T05-C",
+        "group": "9",
+        "weight": "4.0"
+    },
+    {
+        "id": "Q31-A",
+        "group": "10",
+        "weight": "4.0"
+    },
+    {
+        "id": "S02-C",
+        "group": "10",
+        "weight": "4.0"
+    },
+    {
+        "id": "X16-B",
+        "group": "7",
+        "weight": "4.0"
+    },
+    {
+        "id": "S06-G",
+        "group": "10",
+        "weight": "4.0"
+    },
+    {
+        "id": "W04-V",
+        "group": "10",
+        "weight": "4.0"
+    },
+    {
+        "id": "X22-X",
+        "group": "10",
+        "weight": "4.0"
+    },
+    {
+        "id": "X22-K",
+        "group": "8",
+        "weight": "4.0"
+    },
+    {
+        "id": "B04-B",
+        "group": "10",
+        "weight": "4.0"
+    }
+]
