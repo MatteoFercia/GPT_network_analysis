@@ -36,4 +36,4 @@ The question mainly sought to be answered is: is there a way to formalise in ter
 [1] General Purpose Technologies: "Engines of Growth?' \
 [2] Assessing the nature of nanotechnology: can we uncover an emerging general purpose technology? \
 [3] Uncovering GPTs with Patent Data \
-[4] General Purpose Technology: The Blockchain Domain \
+[4] General Purpose Technology: The Blockchain Domain 
