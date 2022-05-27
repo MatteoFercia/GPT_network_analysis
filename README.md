@@ -26,6 +26,15 @@ The question mainly sought to be answered is: is there a way to formalise in ter
 
 ## 2. Method used and results obtained 
 
+classi nodi principali
+T01 = digital computer
+T01-j = Data processing systems 
+
+W04 = audio visual record systems
+W01 = telephone and data trasmission systems
+
+B11 = processes apparatus
+
 ## 3. Conclusions + limits and weaknesses of the study
 
 

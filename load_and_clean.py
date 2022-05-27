@@ -63,11 +63,12 @@ def add_index(dict1):
         dict1[year] = cpc_year_with_index
     return dict1
 
-def extract_dicts_classes(path, NumLettClasses=5, index=True, clean=True):
+def extract_dicts_classes(path,date, NumLettClasses=5, index=True, clean=True):
     ds_vos = load_dataset(path)
     dict1 = defaultdict(list)
     for publication_date, dwpi_code in ds_vos[["Publication Date", "DWPI Manual Codes"]].values:
-        dict1[publication_date[:4]].append(dwpi_code)
+        if publication_date[:4]<= date:
+            dict1[publication_date[:4]].append(dwpi_code)
     if clean:
         dict1 = clean_classes(dict1)
         dict1 = level_of_detail_class(dict1, x=NumLettClasses)

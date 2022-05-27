@@ -32,3 +32,6 @@ print(G.edges)
 #nx.draw(G, pos=pos, with_labels = True)
 
 #plt.show()
+
+#---------------------------------
+

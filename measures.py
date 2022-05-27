@@ -24,8 +24,8 @@ def get_weights(dict):
         else: weights[classe] = round(math.log(app2[classe]*10)+4,2)
     return weights
 
-def find_clusters(dataset, threshold):
-    input_filename = f'./{dataset.title()}/links.tsv' ; output_filename = f'./{dataset.title()}/links.json'
+def find_clusters(dataset, threshold, date):
+    input_filename = f'./{dataset.title()}/links_{date}.tsv' ; output_filename = f'./{dataset.title()}/links_{date}.json'
     tsv2json(input_filename, output_filename, threshold)
     links = json.load(open(output_filename))
     G = nx.Graph()
@@ -35,9 +35,9 @@ def find_clusters(dataset, threshold):
     rounded_clusters = { key:value for key, value in clusters.items() }
     return rounded_clusters
 
-def scrivifile_nodes(name, dict, dataset, weights, threshold):
+def scrivifile_nodes(name, dict, dataset, weights, threshold, date):
     nodes = open(name, "w")
-    rounded_clusters = find_clusters(dataset=dataset, threshold=threshold)
+    rounded_clusters = find_clusters(dataset=dataset, threshold=threshold, date=date)
     nodes.write("id\tgroup\tweight\n")
     classes_done=[]
     for year in dict.keys():
@@ -97,58 +97,60 @@ def tsv2json(input_file, output_file, threshold, links=[]):
         output_file.write(json.dumps(arr, indent=4))
     print('Tsv to Json done.')
 
-def merge_json_files(dataset):
+def merge_json_files(dataset, date):
     try:
         map = {
-                "nodes": json.load(open('nodes.json')),
-                "links": json.load(open('links.json'))
+                "nodes": json.load(open(f'nodes_{date}.json')),
+                "links": json.load(open(f'links_{date}.json'))
               }
-        with open(f"{dataset.title()}.json", "w") as outfile:
+        with open(f"{dataset.title()}_{date}.json", "w") as outfile:
             json.dump(map, outfile, indent=4)
         print('Map Done')
     except:
         map = {
-                "nodes": json.load(open('nodes.json')),
-                "links": json.load(open('links.json'))
+                "nodes": json.load(open(f'nodes_{date}.json')),
+                "links": json.load(open(f'links_{date}.json'))
               }
-        with open(f"{dataset.title()}.json", "w") as outfile:
+        with open(f"{dataset.title()}_{date}.json", "w") as outfile:
             json.dump(map, outfile, indent=4)
         print('Map Done')
 
 
-def write_tsv(dataset, dict1, weights, diz_comparse_insieme):
-    scrivifile_nodes(name=f"./{dataset.title()}/nodes.tsv", dict=dict1, dataset=dataset.title(), weights=weights,threshold=0)
-    print(f'Nodes.tsv {dataset} done.')
-    scrivifile_links(name=f"./{dataset.title()}/links.tsv", diz_comparse_insieme=diz_comparse_insieme)
+def write_tsv(dataset, dict1, weights, diz_comparse_insieme, date):
+    scrivifile_links(name=f"./{dataset.title()}/links_{date}.tsv", diz_comparse_insieme=diz_comparse_insieme)
     print(f'Links.tsv {dataset.title()} done.')
+    scrivifile_nodes(name=f"./{dataset.title()}/nodes_{date}.tsv", dict=dict1, dataset=dataset.title(), weights=weights,threshold=0, date=date)
+    print(f'Nodes.tsv {dataset} done.')
 
-def pipeline_map(path, dataset, threshold=0.1, first_time=False):
-    links = extract_dicts_classes(path, clean=False)
+def pipeline_map(path, dataset, threshold=0.1, first_time=False, date='2018'):
+    links = extract_dicts_classes(path, clean=False, date=date)
+    print(links)
     if first_time:
-        dict1 = extract_dicts_classes(path)
+        dict1 = extract_dicts_classes(path, date=date)
         weights = get_weights(dict1)
         diz_comparse_insieme = coefficients_due_classi(links=links)
-        write_tsv(dataset=dataset,dict1=dict1,weights=weights,diz_comparse_insieme=diz_comparse_insieme)
+        print(diz_comparse_insieme)
+        write_tsv(dataset=dataset,dict1=dict1,weights=weights,diz_comparse_insieme=diz_comparse_insieme, date=date)
     try:
-        input_filename = f'./{dataset.title()}/links.tsv' ; output_filename = f'./{dataset.title()}/links.json'
+        input_filename = f'./{dataset.title()}/links_{date}.tsv' ; output_filename = f'./{dataset.title()}/links_{date}.json'
         tsv2json(input_filename, output_filename, threshold=threshold)
         print(f'Links.json {dataset.title()} done.')
-        links = json.load(open(f'./{dataset.title()}/links.json'))
-        input_filename = f'./{dataset.title()}/nodes.tsv';
-        output_filename = f'./{dataset.title()}/nodes.json'
+        links = json.load(open(f'./{dataset.title()}/links_{date}.json'))
+        input_filename = f'./{dataset.title()}/nodes_{date}.tsv';
+        output_filename = f'./{dataset.title()}/nodes_{date}.json'
         tsv2json(input_filename, output_filename, threshold=threshold, links=links)
         print(f'Nodes.json {dataset.title()} done.')
     except:
-        input_filename = 'links.tsv'
-        output_filename = 'links.json'
+        input_filename = f'links_{date}.tsv'
+        output_filename = f'links_{date}.json'
         tsv2json(input_filename, output_filename, threshold=threshold)
-        print('Links.json done.')
-        links=json.load(open('links.json'))
-        input_filename = 'nodes.tsv'
-        output_filename = 'nodes.json'
+        print('Links_.json done.')
+        links=json.load(open(f'links_{date}.json'))
+        input_filename = f'nodes_{date}.tsv'
+        output_filename = f'nodes_{date}.json'
         tsv2json(input_filename, output_filename, threshold=threshold, links=links)
         print('Nodes.json done.')
-    merge_json_files(dataset=dataset)
+    merge_json_files(dataset=dataset, date=date)
     print('Pipeline done.')
 
 # ----------------------------------------------------------------------------------------------------------------------
@@ -161,7 +163,8 @@ if __name__=="__main__":
     #pipeline_map(path=path, dataset='Digital Twins', threshold=0.2)
 
     path = "/Users/matteofercia/Desktop/datascience/network/blockchain_patents.csv"
-    pipeline_map(path=path, dataset='Blockchain', threshold=0.04)
+    pipeline_map(path=path, dataset='Blockchain', threshold=0.04, date='2010', first_time=True)
+
 
 
 
