@@ -19,10 +19,16 @@ print(dict2)
 for i in dict2:
     d = {}
     d['weight'] = i['value']
-    G.add_edges_from([(i['source'],i['target'], d)])
+    if i['source'] == i['target']:
+        pass
+    else:
+        G.add_edges_from([(i['source'],i['target'], d)])
 print(G.edges)
 
 
-nx.draw(G)
-print('end')
+#nx.draw(G, with_labels = True)
 
+#pos = nx.circular_layout(G)
+#nx.draw(G, pos=pos, with_labels = True)
+
+#plt.show()
