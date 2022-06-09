@@ -44,7 +44,7 @@ if __name__ == '__main__':
     results = get_results(years=years)
     print(results)
 
-    indicators = [ 'clustering_coef' ] # 'betweennes', 'clustering_coef' ] # 'centrality'
+    indicators = [ 'clustering_coef', 'betweennes' ] #, 'clustering_coef' ] # 'centrality'
     codes = get_list_dwpi_codes(res=results)
 
     # codes = ['W01-A','T01-S', 'T01-D'] # ['T01-D', 'T01-N', 'T01-F', 'T06-A', 'W01-A', 'W01-C', 'T01-S', 'T01-J']
