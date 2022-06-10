@@ -101,7 +101,7 @@ def merge_json_files(dataset, date):
     try:
         map = {
                 "nodes": json.load(open(f'nodes_{date}.json')),
-                "links": json.load(open(f'links_{date}.json'))
+                "graph_map_net": json.load(open(f'links_{date}.json'))
               }
         with open(f"{dataset.title()}_{date}.json", "w") as outfile:
             json.dump(map, outfile, indent=4)
@@ -109,7 +109,7 @@ def merge_json_files(dataset, date):
     except:
         map = {
                 "nodes": json.load(open(f'nodes_{date}.json')),
-                "links": json.load(open(f'links_{date}.json'))
+                "graph_map_net": json.load(open(f'links_{date}.json'))
               }
         with open(f"{dataset.title()}_{date}.json", "w") as outfile:
             json.dump(map, outfile, indent=4)
