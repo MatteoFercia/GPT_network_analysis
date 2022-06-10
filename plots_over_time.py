@@ -62,17 +62,6 @@ if __name__ == '__main__':
             #     line_chart(res=results, dwpi_code=dwpi_code, years=years, indicator=indicator,
             #                title=f'{indicator.title()} of {dwpi_code} over time')
 
-    # densities=[]
-    # for year in results.keys():
-    #     densities.append((year, results[year]['density']))
-    # x = list(map(lambda x: x[0], densities))
-    # y = list(map(lambda x: x[1], densities))
-    # x = np.array(x)
-    # y = np.array(y)
-    #
-    # plt.plot(x, y, marker='o')
-    # plt.title('DENSITY')
-    # plt.show()
 
     print('Main done.')
 
