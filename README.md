@@ -16,26 +16,9 @@ After this brief introduction, it is worthwhile to mention two technologies that
 
 Despite the recognised importance of General Purpose Technologies and the many studies aimed at recognising them, the formalisation of a framework capable of identifying them in the early stages of their development has not yet been achieved. Succeeding in this task would mean having a great competitive advantage over competitors and the possibility of being able to anticipate the strategic positioning, taking into account, the social impacts that these technologies entail. These are the reasons that lead us to study and research the properties of GPTs that, in our opinion, can contribute to solving this problem. Applying the graph theory to this problem is not a completely original idea. Other work has been carried out in these terms. In [4], blockchain technology was analysed by leveraging patents, to show those traits that underlie GPTs.
 
-The use of patents to map the technology was ........
-
 Our project leverages the same dataset as the research in [4], and focuses on analysing different dynamics related to the flow of knowledge and information that can be reconstructed using Blockchain-related patents. The analysis, unlike the work already present in the literature, will focus more on the behaviour of individual nodes and the role of the links that connect these nodes, contributing in terms of local characteristics within the network rather than global characteristics that are well present in the literature. Under the assumption that such a technology is indeed a GPT, properties will be sought to be tested later on established technologies such as GPTs.
 
 The question mainly sought to be answered is: is there a way to formalise in terms of knowledge flow the three properties characterising GPTs? And, if so, does blockchain technology respect them?
-
-
-
-## 2. Method used and results obtained 
-
-classi nodi principali
-T01 = digital computer
-T01-j = Data processing systems 
-
-W04 = audio visual record systems
-W01 = telephone and data trasmission systems
-
-B11 = processes apparatus
-
-## 3. Conclusions + limits and weaknesses of the study
 
 
 
